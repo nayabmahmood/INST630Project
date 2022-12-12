@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/INST630Project/static/css/main.470275db.css",
+    "main.js": "/INST630Project/static/js/main.0f13c154.js",
+    "static/js/496.13f41535.chunk.js": "/INST630Project/static/js/496.13f41535.chunk.js",
+    "index.html": "/INST630Project/index.html",
+    "main.470275db.css.map": "/INST630Project/static/css/main.470275db.css.map",
+    "main.0f13c154.js.map": "/INST630Project/static/js/main.0f13c154.js.map",
+    "496.13f41535.chunk.js.map": "/INST630Project/static/js/496.13f41535.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.470275db.css",
+    "static/js/main.0f13c154.js"
+  ]
+}
